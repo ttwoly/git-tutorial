@@ -3,3 +3,4 @@
 - master
 - develop
 - fix-B
+- feature-C
